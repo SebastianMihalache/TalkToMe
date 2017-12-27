@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "164929262831",
+    "firebase_url": "https://talktome-87fbf.firebaseio.com",
+    "project_id": "talktome-87fbf",
+    "storage_bucket": "talktome-87fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164929262831:android:b56501fcb3cb9992",
+        "android_client_info": {
+          "package_name": "com.example.sebastian.talktome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164929262831-irtq8k9knceai805t773lhf936dvd1gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sebastian.talktome",
+            "certificate_hash": "1f104d657e8bcf8a334f03be78f43bcfe9f93d9f"
+          }
+        },
+        {
+          "client_id": "164929262831-jict1om7i8jad08nv0i11eml74prr37f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIaoTrJVhrgdRXxjMtzZmZCjfvdn0J-bw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164929262831-jict1om7i8jad08nv0i11eml74prr37f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
